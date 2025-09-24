@@ -1,3 +1,7 @@
+This is a significantly simplified fork of the original project, developed to facilitate its use and handling. (Este é um fork significativamente simplificado do projeto original, desenvolvido com o objetivo de facilitar seu uso e manipulação.)
+
+
+
 # Super Tiny Icons
 
 Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 403 icons and the average size is _under_ 522 bytes!
