@@ -16,20 +16,6 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img src="images/svg/github.svg" width="100" /> | <img src="images/png/github.png" width="100" /> | <img src="images/svg/twitter.svg" width="100" /> | <img src="images/png/twitter.png" width="100" /> | <img src="images/svg/flickr.svg" width="100" /> | <img src="images/png/flickr.png" width="100" /> |
 
-## Hacktoberfest!
-
-This project welcomes Hacktoberfest participants.  All we ask is that you:
-
-* ✅ Make your logo *under* 1,024 bytes.
-* ✅ Follow the [Contributing Guidance](CONTRIBUTING.md).
-* ✅ Be friendly to other participants.
-* ✅ Choose a logo which is highly recognisable.
-* ❌ Don't use AI. That means no ChatGPT, Gemini, Claude, etc. This is your opportunity to learn.
-* ❌ Don't [change the HTML](https://github.com/edent/SuperTinyIcons/pull/870)
-* ❌ Don't send [broken logos](https://github.com/edent/SuperTinyIcons/pull/868)
-* ❌ Don't [ignore the guidelines](https://github.com/edent/SuperTinyIcons/pull/809)
-
-If you do not follow the instructions, your contribution will be marked as spam and you will be disqualified from Hacktoberfest.
 
 ## What's Available so far?
 
